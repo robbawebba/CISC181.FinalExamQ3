@@ -35,10 +35,6 @@ public class EstimatorController {
 	
 	double maxPay;
 	double mortgage;
-
-	private Object monthlyObl;
-
-	private Object housePay;
 	
 	public EstimatorController() {
 		// no-arg constructor
